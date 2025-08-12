@@ -1,4 +1,4 @@
-// Write a program in C to implement arrays of pointers and pointers to arrays.
+//  Write a program in C to implement arrays of pointers and pointers to arrays.
 
 #include<stdio.h>
 #include<string.h>
@@ -47,3 +47,4 @@ int main() {
     return 0;
 
 }
+

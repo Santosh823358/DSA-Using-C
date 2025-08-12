@@ -1,4 +1,4 @@
-// Write aprogram in C to implement pointers to Structures.
+// Write a program in C to implement pointers to Structures.
 
 #include <stdio.h>
 struct Student {
@@ -17,3 +17,4 @@ int main() {
 
     return 0;
 }
+

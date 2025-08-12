@@ -1,3 +1,4 @@
+// Write a program in C to implement arrays of pointers and pointers to arrays.
 
 #include<stdio.h>
 #include<string.h>
@@ -44,4 +45,5 @@ int main() {
         free(names[i]);
     }
     return 0;
+
 }

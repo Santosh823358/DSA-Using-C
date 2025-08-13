@@ -1,4 +1,4 @@
-// Implement a Stack using an array having following functionalities.
+// Implement a Stack using an array having following functionalities:
 #include <stdio.h>
 #define MAX 100
 
@@ -56,4 +56,5 @@ int main() {
     display();
     return 0;
 }
+
 
